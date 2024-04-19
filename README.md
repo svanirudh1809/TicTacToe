@@ -11,7 +11,7 @@ This project allows you to play Tic Tac Toe against a friend or challenge the co
 ## Features
 
 - Play against a friend: Enjoy a friendly match of Tic Tac Toe with another player.
-- Play against the computer: Test your skills against the computer (Testing).
+- Play against the computer: Test your skills against the computer (Beta).
 
 ## How to Play
 
@@ -35,4 +35,6 @@ This project was created by [S V Anirudh](https://www.linkedin.com/in/anirudhsv/
 
 ---
 
-Enjoy playing Tic Tac Toe! If you have any questions or feedback, feel free to reach out.
+Enjoy playing Tic Tac Toe! If you have any questions or feedback, feel free to reach out.  
+
+> This project was created 02/07/2022
