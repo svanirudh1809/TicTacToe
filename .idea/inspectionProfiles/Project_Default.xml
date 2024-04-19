@@ -1,0 +1,55 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreConstantInTheMiddle" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N801" />
+          <option value="N803" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="PyQt5-stubs==5.15.2.0" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="ui_functions.fail" />
+          <option value="PyQt5.QtCore.Qt.DotLine" />
+          <option value="webViewer.Ui_Form" />
+          <option value="webViewer.webViewerFunctions.webViewerUi" />
+          <option value="PyQt5.QtCore.Qt.FramelessWindowHint" />
+          <option value="PyQt5.QtGui.QIcon.Normal" />
+          <option value="PyQt5.QtGui.QIcon.Off" />
+          <option value="PyQt5.QtCore.Qt.WindowNoState" />
+          <option value="PyQt5.QtCore.timeout.connect" />
+          <option value="PyQt5.QtCore.Qt.DashLine" />
+          <option value="PyQt5.QtWidgets.buttonClicked.connect" />
+          <option value="cv2.*" />
+          <option value="AgePredictor.main.camera" />
+          <option value="AgePredictor.main.predictor" />
+          <option value="AgePredictor.camera.predictor" />
+          <option value="PyQt6.QtCore.timeout.connect" />
+          <option value="PyQt5.QtWidgets.triggered.connect" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
