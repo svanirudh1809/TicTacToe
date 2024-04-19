@@ -17,10 +17,10 @@ This project allows you to play Tic Tac Toe against a friend or challenge the co
 
 To start playing the game, simply run the main.py file in your terminal and follow the instructions in the console.
 
-The grid positions of the board are equivalent to the number pad on the keyboard:
-7 8 9
-4 5 6
-1 2 3
+The grid positions of the board are equivalent to the number pad on the keyboard:  
+7 | 8 | 9    
+4 | 5 | 6   
+1 | 2 | 3  
 Choose the number to put mark in that grid.
 
 Player with 'x' starts the game.
@@ -31,7 +31,7 @@ This was a fun project. So, contributions are always welcome! If you find any bu
 
 ## Credits
 
-This project was created by S V Anirudh. Special thanks to the python community!
+This project was created by [S V Anirudh](https://www.linkedin.com/in/anirudhsv/). Special thanks to the python community!
 
 ---
 
