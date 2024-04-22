@@ -23,7 +23,11 @@ The grid positions of the board are equivalent to the number pad on the keyboard
 1 | 2 | 3  
 Choose the number to put mark in that grid.
 
-Player with 'x' starts the game.
+Player with 'x' starts the game.  
+
+> ## Future Directions  
+> - The computer mode is to be enhanced
+> - A better UI can be added
 
 ## Contributing
 
